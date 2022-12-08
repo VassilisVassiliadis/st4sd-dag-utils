@@ -1,0 +1,3 @@
+[submodule "band-gap-gamess"]
+	path = band-gap-gamess
+	url = https://github.com/st4sd/band-gap-gamess.git
